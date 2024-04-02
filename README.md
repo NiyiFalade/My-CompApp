@@ -12,11 +12,27 @@ The Test Automation Framework was done using Serenity Screenplay, a powerful tes
 ## Getting Started
 To get started with the Serenity Screenplay framework, follow these steps:
 
-1 - Clone the Repository: Clone this repository to your local machine.
-2 - Set Up Your Environment: Ensure you have Java and Maven installed on your machine.
-3-  Install Dependencies: Navigate to the project directory and install the dependencies using Maven.
-4- Run Your Tests  - mvn clean verify
+- 1 - Clone the Repository: Clone this repository to your local machine.
+- 2 - Set Up Your Environment: Ensure you have Java and Maven installed on your machine.
+- 3-  Install Dependencies: Navigate to the project directory and install the dependencies using Maven.
+- 4- Run Your Tests  - mvn clean verify
 
+## Solution
+- Created a program that extracts the Car registraion numbers from the inpur file using regular expression
+- The registration number in sequential manner is feed into Enter my Reg page of the Cazoo website
+- Extract Process and store the Car details returned from the Cazoo Website
+- Another program extracts the car details from the output file
+- Compare the data returned from the Website against the output file
+- Generate a report 
+
+## Issues 
+ - Carzoo Enter value failed to return valid car details for some of the number plates
+
+##  Future Improvements
+ - More tests validation
+ - Improve on data extraction process
+
+  
 
 ## Project Structure
 
