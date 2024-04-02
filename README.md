@@ -22,3 +22,9 @@ To get started with the Serenity Screenplay framework, follow these steps:
 
 ![image](https://github.com/NiyiFalade/My-CompApp/assets/28037727/cf0de5f1-cb5a-4188-b016-dd7e5a95056d)
 
+
+## Project Report  - Open this path in a browser "target/site/serenity/index.html"
+
+![Serenity1](https://github.com/NiyiFalade/My-CompApp/assets/28037727/15a6d774-ae4c-4aff-bdc4-9eda4aff7e52)
+![Serenity2](https://github.com/NiyiFalade/My-CompApp/assets/28037727/c82b24fd-71a9-434f-b6fc-e9bce89d488f)
+![Serenity3](https://github.com/NiyiFalade/My-CompApp/assets/28037727/4bb9c918-389b-4ff2-9dc4-abd3d847b73f)
