@@ -23,6 +23,7 @@ To get started with the Serenity Screenplay framework, follow these steps:
 - Extract Process and store the Car details returned from the Cazoo Website
 - Another program extracts the car details from the output file
 - Compare the data returned from the Website against the output file
+- If no info found during car search data is captured and stored in the report
 - Generate a report 
 
 ## Issues 
